@@ -1,0 +1,2 @@
+# ReactNative-Album-App
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/45a2ae0cf2594ddd9f9164a0be648fcc)](https://app.codacy.com/app/theyeshu/ReactNative-Album-App?utm_source=github.com&utm_medium=referral&utm_content=theyeshu/ReactNative-Album-App&utm_campaign=Badge_Grade_Dashboard)
